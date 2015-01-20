@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA7A3771-7447-49E1-84A1-66DD9A75AA10</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FunFacts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96D0907955A2527F457AE597D48BB2D895E20424</key>
+		<string>https://github.com/dmuro2/Fun-Facts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FunFacts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96D0907955A2527F457AE597D48BB2D895E20424</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dmuro2/Fun-Facts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96D0907955A2527F457AE597D48BB2D895E20424</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96D0907955A2527F457AE597D48BB2D895E20424</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Fun-Facts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
